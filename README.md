@@ -69,8 +69,10 @@ Hybrid vehicles combine an internal combustion engine (ICE) and one or more elec
 - Internal Combustion Engine (ICE)
 - Electric Motor/Generator
 - High-Voltage Battery Pack
+![WhatsApp Image 2025-09-02 at 15 13 23_00d9b255](https://github.com/user-attachments/assets/3e7c121d-f251-4a5f-9760-ead6e64b4fcf)
+
 - Inverter/Converter
-  ![IMG-20250902-WA0029](https://github.com/user-attachments/assets/3a3d3d5e-8378-41f1-ac5f-8deed5e47ed4)
+![IMG-20250902-WA0029](https://github.com/user-attachments/assets/3a3d3d5e-8378-41f1-ac5f-8deed5e47ed4)
 
 - Power Control Unit (PCU)
 - Transmission
