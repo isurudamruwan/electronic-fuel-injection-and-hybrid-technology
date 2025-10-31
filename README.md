@@ -31,7 +31,7 @@ Hybrid vehicles combine an internal combustion engine (ICE) and one or more elec
 ### 🧠 How It Works (Simplified):
 
 - At low speeds or during light acceleration, the electric motor powers the car.
-- During high power demand (like uphill driving), the engine and motor work together.
+- During high power demand (under high load conditions), the engine and motor work together.
 - Regenerative braking converts braking energy into electricity to charge the battery.
 - The ECU (Electronic Control Unit) manages this switching automatically.
 
